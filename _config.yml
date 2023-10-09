@@ -1,7 +1,8 @@
+title: "Multimedia Systems Project"
+description: "Project for CSC461: Multimedia Systems class."
+remote_theme: pages-themes/minimal@v0.2.0
 plugins:
   - jekyll-relative-links
+  - jekyll-remote-theme 
 relative_links:
   enabled: true
-  collections: true
-include:
-  - README.md
