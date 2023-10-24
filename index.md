@@ -2,6 +2,6 @@
 layout: default
 ---
 
-## Project Proposal
+## [Project Proposal](proposal.md)
 
-<object data="csc461pp.pdf" width="1000" height="1000" type='application/pdf'></object>
+## [Bi-Weekly Update 1](update-1.md)
