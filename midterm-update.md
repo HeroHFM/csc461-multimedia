@@ -18,4 +18,3 @@ There are still several challenges we need to resolve, however. Instead of strea
 
 In terms of our schedule, we have completed our research into the wide selection of VoIP protocols available and will be focusing on the demo for the next several weeks. We hope to have addressed some of the challenges outlined above by the next biweekly update.
 
-- 
