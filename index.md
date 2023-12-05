@@ -9,3 +9,5 @@ layout: default
 ## [Midterm Update](midterm-update.md)
 
 ## [Bi-Weekly Update 3](update-3.md)
+
+## [Project Demo](demo.md)
