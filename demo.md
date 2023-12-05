@@ -8,4 +8,4 @@ layout: default
 
 ## Demo
 
-<video controls="" src="demo.mp4"></video>
+<video controls="" src="demo.mp4" width="640" height="360"></video>
