@@ -11,3 +11,5 @@ layout: default
 ## [Bi-Weekly Update 3](update-3.md)
 
 ## [Project Demo](demo.md)
+
+## [Project Report](report.md)
